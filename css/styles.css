@@ -1,0 +1,22 @@
+body {
+  padding: 50px 0 0 0;
+  background: url("/images/grey.png") repeat;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.banner {
+  background-color: #000;
+}
+
+.nav-pills {
+  margin: 0;
+}
+
+.page-header {
+  margin: 5px 0 10px 0;
+  text-align: center;
+}
+
+.disclaimer, .copy {
+  text-align: center;
+}

@@ -1,0 +1,10 @@
+name: "OAOSIDL at ACS"
+slogan: "Patch Welcome"
+
+nav:
+- page: Home
+  permalink: /
+- page: Projects
+  permalink: /projects/
+- page: Members
+  permalink: /members/
