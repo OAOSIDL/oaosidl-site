@@ -55,7 +55,7 @@ permalink: /members/
     </div>
     <div class="span3">
         <h3>Louise Radley</h3>
-        <p>Final year Aberystwyth University Biology student. Lately spends her time studying and scouting Shire Horses for disseration sampling purposes. Likes reading and playing minecraft.</p>
+        <p>Final year Aberystwyth University Biology student. Lately spends her time studying and scouting Shire Horses for dissertation sampling purposes. Likes reading and playing minecraft.</p>
         <small><a href="http://lradley.co.uk/">lradley.co.uk</a></small>
     </div>
     <div class="span3">
