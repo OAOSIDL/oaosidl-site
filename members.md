@@ -28,7 +28,7 @@ permalink: /members/
     </div>
     <div class="span3">
         <h3>Douglas Gardner</h3>
-        <p>First year Computer Science with Artificial Intelligence student. A regular abuser of the Freedom of Information Act who likes monolith spreadsheets, purchasing domains, PHP and complaining about the lack of Dr. Pepper available on campus.</p>
+        <p>First year Computer Science with Artificial Intelligence student. A regular abuser of the Freedom of Information Act who likes monolith spreadsheets, purchasing domains, PHP and complaining about the lack of Dr Pepper available on campus.</p>
         <small><a href="http://users.aber.ac.uk/dog2/">dog2</a></small>
     </div>
     <div class="span3">
