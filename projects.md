@@ -13,8 +13,10 @@ permalink: /projects/
 ####jsbot
 
 ##Member Projects
+####Angort
 ####Brisk
 ####Crayon
+####Femtomine
 ####Hootsim
 ####Inboxen
 ####Magnetite
