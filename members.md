@@ -51,7 +51,7 @@ permalink: /members/
     <div class="span3">
         <h3>Tom Menari</h3>
         <p>Open Source Computing student, especially interested in systems administration and large networks. Enjoys cycling, photography and travelling to conferences.</p>
-        <small><a href="http://menari.eu/">menaru.eu</a></small>
+        <small><a href="http://menari.eu/">menari.eu</a></small>
     </div>
     <div class="span3">
         <h3>Louise Radley</h3>
