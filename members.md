@@ -28,7 +28,7 @@ permalink: /members/
     </div>
     <div class="span3">
         <h3>Douglas Gardner</h3>
-        <p>First year Computer Science with Artificial Intelligence student. A regular abuser of the Freedom of Information Act who likes monolith spreadsheets, purchasing domains, PHP and complaining about the lack of Dr Pepper available on campus.</p>
+        <p>First year Computer Science with Artificial Intelligence student. A regular abuser of the Freedom of Information Act who likes monolithic spreadsheets, purchasing domains, PHP and complaining about the lack of Dr Pepper available on campus.</p>
         <small><a href="http://users.aber.ac.uk/dog2/">dog2</a></small>
     </div>
     <div class="span3">
@@ -55,7 +55,7 @@ permalink: /members/
     </div>
     <div class="span3">
         <h3>Louise Radley</h3>
-        <p>Final year Aberystwyth University Biology student. Lately spends her time studying and scouting Shire Horses for dissertation sampling purposes. Likes reading and playing minecraft.</p>
+        <p>Final year Aberystwyth University Biology student. Lately spends her time studying and scouting Shire Horses for dissertation purposes. Likes reading and playing Minecraft.</p>
         <small><a href="http://lradley.co.uk/">lradley.co.uk</a></small>
     </div>
     <div class="span3">
