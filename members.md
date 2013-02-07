@@ -9,12 +9,12 @@ permalink: /members/
     <div class="span6">
         <h3>Sam Nicholls</h3>
         <p>Twenty-two year old Computer Science and Statistics student at Aberystwyth University. Currently taking a year out with the Numerical Algorithms Group following a summer at the Wellcome Trust Sanger Institute. Likes telling computers to do things, as well as statistics and owls.</p>
-        <small><a href="http://samnicholls.net">samnicholls.net</a></small>
+        <small><a href="http://samnicholls.net/">samnicholls.net</a></small>
     </div>
     <div class="span6">
         <h3>Luke Slater</h3>
         <p>Groovy, funky Open Source Computing student at Aberystwyth University. Creator of the legendary depressionbot platform. Currently taking a year in industry at Google in Zurich. Enjoys Javascript, objects and influencing the sociolect. Also turtles.</p>
-        <small><a href="http://nourishedcloud.com/profile/aberwiki/reality">dbot://reality</a></small>
+        <small><a href="http://nourishedcloud.com/">nourishedcloud.com</a></small>
     </div>
 </div>
 <hr />
@@ -24,12 +24,12 @@ permalink: /members/
     <div class="span3">
         <h3>Daniel Evans</h3>
         <p>Second year Computer Science student. Co-founder of Razor Studios where he spends his time working on various complex projects including the real-time simulation engine CellSpace. Built the Magnetite 3D engine as a hobby.</p>
-        <small><a href="http://bytecove.co.uk/">Bytecove</a></small>
+        <small><a href="http://bytecove.co.uk/">bytecove.co.uk</a></small>
     </div>
     <div class="span3">
         <h3>Douglas Gardner</h3>
         <p>First year Computer Science with Artificial Intelligence student. A regular abuser of the Freedom of Information Act who likes monolithic spreadsheets, purchasing domains, PHP and complaining about the lack of Dr Pepper available on campus.</p>
-        <small><a href="http://users.aber.ac.uk/dog2/">dog2</a></small>
+        <small><a href="http://chippy.ch/">chippy.ch</a></small>
     </div>
     <div class="span3">
         <h3>Owain Jones</h3>
@@ -39,7 +39,7 @@ permalink: /members/
     <div class="span3">
         <h3>Jim Finnis</h3>
         <p>Mature student at Aberystwyth University. Spent many years in the games development industry. Interests include fencing, painting, photography, playing inappropriate songs on the mandolin, writing fiction, and fencing paintings.</p>
-        <small><a href="http://pale.org">pale.org</a></small>
+        <small><a href="http://pale.org/">pale.org</a></small>
     </div>
 </div>
 <div class="row row-members">
@@ -49,7 +49,7 @@ permalink: /members/
         <small><a href="http://losingthegame.net/">losingthegame.net</a></small>
     </div>
     <div class="span3">
-        <h3>Tom Menari</h3>
+        <h3>Thomas Menari</h3>
         <p>Open Source Computing student, especially interested in systems administration and large networks. Enjoys cycling, photography and travelling to conferences.</p>
         <small><a href="http://menari.eu/">menari.eu</a></small>
     </div>
@@ -61,6 +61,6 @@ permalink: /members/
     <div class="span3">
         <h3>Jessica Tallon</h3>
         <p>Future Computer Science student at Aberystwyth University. Very interested in learning foreign languages and even translated the famous depressionbot into Na'vi.</p>
-        <small><a href="http://megworld.co.uk/">MegWorld</a></small>
+        <small><a href="http://megworld.co.uk/">megworld.co.uk</a></small>
     </div>
 </div>
