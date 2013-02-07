@@ -46,7 +46,7 @@ permalink: /members/
     <div class="span3">
         <h3>Joe MacMahon</h3>
         <p>First year Computer Science and Mathematics student at Sheffield University. Likes Haskell, the GPL, folk music and linguistics. Plays the tin whistle, clarinet and didgeridoo.</p>
-        <small><a href="http://losingthegame.net/">losingthegame.net</a></small>
+        <small><a href="http://macmahon.eu/">macmahon.eu</a></small>
     </div>
     <div class="span3">
         <h3>Thomas Menari</h3>
