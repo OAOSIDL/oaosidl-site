@@ -27,6 +27,11 @@ permalink: /members/
         <small><a href="http://bytecove.co.uk/">bytecove.co.uk</a></small>
     </div>
     <div class="span3">
+        <h3>Jim Finnis</h3>
+        <p>Mature student at Aberystwyth University. Spent many years in the games development industry. Interests include fencing, painting, photography, playing inappropriate songs on the mandolin, writing fiction, and fencing paintings.</p>
+        <small><a href="http://pale.org/">pale.org</a></small>
+    </div>
+    <div class="span3">
         <h3>Douglas Gardner</h3>
         <p>First year Computer Science with Artificial Intelligence student. A regular abuser of the Freedom of Information Act who likes monolithic spreadsheets, purchasing domains, PHP and complaining about the lack of Dr Pepper available on campus.</p>
         <small><a href="http://chippy.ch/">chippy.ch</a></small>
@@ -35,11 +40,6 @@ permalink: /members/
         <h3>Owain Jones</h3>
         <p>Gloucestershire hailing Artificial Intelligence and Robotics student. Currently working an industrial year with the Remote Sensing Group at Plymouth Marine Laboratory. Particularly interested in the field of Search and Rescue robotics.</p>
         <small><a href="http://odj.me/">odj.me</a></small>
-    </div>
-    <div class="span3">
-        <h3>Jim Finnis</h3>
-        <p>Mature student at Aberystwyth University. Spent many years in the games development industry. Interests include fencing, painting, photography, playing inappropriate songs on the mandolin, writing fiction, and fencing paintings.</p>
-        <small><a href="http://pale.org/">pale.org</a></small>
     </div>
 </div>
 <div class="row row-members">
