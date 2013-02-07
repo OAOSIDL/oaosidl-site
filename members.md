@@ -33,12 +33,12 @@ permalink: /members/
     </div>
     <div class="span3">
         <h3>Douglas Gardner</h3>
-        <p>First year Computer Science with Artificial Intelligence student. A regular abuser of the Freedom of Information Act who likes monolithic spreadsheets, purchasing domains, PHP and complaining about the lack of Dr Pepper available on campus.</p>
+        <p>First year Computer Science with Artificial Intelligence student. A regular abuser of the Freedom of Information Act who likes monolithic spreadsheets, purchasing domains and complaining about the lack of Dr Pepper on campus.</p>
         <small><a href="http://chippy.ch/">chippy.ch</a></small>
     </div>
     <div class="span3">
         <h3>Owain Jones</h3>
-        <p>Gloucestershire hailing Artificial Intelligence and Robotics student. Currently working an industrial year with the Remote Sensing Group at Plymouth Marine Laboratory. Particularly interested in the field of Search and Rescue robotics.</p>
+        <p>Gloucestershire hailing Artificial Intelligence and Robotics student. Currently working an industrial year with the Remote Sensing Group at Plymouth Marine Laboratory. Particularly interested in hedgehogs and Search and Rescue robotics.</p>
         <small><a href="http://odj.me/">odj.me</a></small>
     </div>
 </div>
@@ -60,7 +60,7 @@ permalink: /members/
     </div>
     <div class="span3">
         <h3>Jessica Tallon</h3>
-        <p>Future Computer Science student at Aberystwyth University. Very interested in learning foreign languages and even translated the famous depressionbot into Na'vi.</p>
+        <p>Future Computer Science and Welsh student at Aberystwyth University. Very interested in learning foreign languages and even translated the famous depressionbot into Na'vi.</p>
         <small><a href="http://megworld.co.uk/">megworld.co.uk</a></small>
     </div>
 </div>
