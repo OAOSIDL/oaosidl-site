@@ -17,13 +17,14 @@ permalink: /projects/
 ####Brisk
 ####Crayon
 ####Femtomine
+####Fi
 ####Hootsim
 ####Inboxen
 ####Magnetite
 ####Megbot
 ####Mountain
 ####NodeMUD
-####Pallet
+####php-toolkit
 ####Scrapper
 ####Weather
 ####Zorkbot
