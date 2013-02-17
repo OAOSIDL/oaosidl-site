@@ -22,8 +22,8 @@
                 {% endfor %}
                 </ul>
                 <ul class="nav pull-right">
-                    <li ><a href="https://github.com/OAOSIDL/abercompsci.co.uk">Repo</a></li>
-                    <li><a href="https://github.com/OAOSIDL/abercompsci.co.uk/issues">Issues <span class="badge badge-info open_issues"></span></a></li>
+                    <li ><a href="https://github.com/OAOSIDL/oaosidl-site">Repo</a></li>
+                    <li><a href="https://github.com/OAOSIDL/oaosidl-site/issues">Issues <span class="badge badge-info open_issues"></span></a></li>
                 </ul>
             </div>
         </div>
@@ -47,12 +47,12 @@
             <small>Please note that the Official Aberystwyth Open Source International Developers League is not affiliated with Aberystwyth University or the Department of Computer Science.</small>
         </div>
         <div class="copy">
-            <small>This site is cheerfully maintained by the OAOSIDL, <a href="https://github.com/OAOSIDL/abercompsci.co.uk">patch welcome</a>.<br />&copy; 2013 OAOSIDL</small>
+            <small>This site is cheerfully maintained by the OAOSIDL, <a href="https://github.com/OAOSIDL/oaosidl-site">patch welcome</a>.<br />&copy; 2013 OAOSIDL</small>
         </div>
     </div>
     <script>
         $(document).ready(function(){
-            $.get('https://api.github.com/repos/OAOSIDL/abercompsci.co.uk', function(data) {
+            $.get('https://api.github.com/repos/OAOSIDL/oaosidl-site', function(data) {
                 $('.open_issues').html(data.open_issues_count); }, 'json');
         });
     </script>
