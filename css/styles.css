@@ -1,5 +1,5 @@
 body {
-  padding: 50px 0 0 0;
+  padding: 90px 0 0 0;
   background: url("/images/grey.png") repeat;
   font-family: "Source Sans Pro", sans-serif;
 }
@@ -23,4 +23,8 @@ body {
 
 .row-members {
   text-align: justify;
+}
+
+.subnav {
+  top: 40px;
 }

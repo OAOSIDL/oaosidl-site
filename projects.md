@@ -5,12 +5,12 @@ permalink: /projects/
 ---
 
 ##Core OAOSIDL Projects
-####abercompsci.co.uk
 ####depressionbot
 ####dbot-github
 ####dbot-notifier
 ####dbot-stats
 ####jsbot
+####oaosidl-site
 
 ##Member Projects
 ####Angort
