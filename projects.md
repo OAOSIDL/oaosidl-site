@@ -8,11 +8,11 @@ permalink: /projects/
     <div class="span6">
         <h2>Core Projects</h2>
         <h4><a href="https://github.com/reality/dbot">dbot</a> <span class="label">nodejs</span></h4>
-        An IRC bot for the 21st Century
+        An IRC bot with over 30 modules and shiny web interface
         <h4><a href="https://github.com/zuzak/dbot-github">dbot-github</a> <span class="label">nodejs</span></h4>
         github API integration for dbot
         <h4><a href="https://github.com/danharibo/dbot-notify">dbot-notify</a> <span class="label">nodejs</span></h4>
-        RSS feed reader for dbot
+        RSS feed announcer for dbot
         <h4><a href="https://github.com/samstudio8/dbot-stats">dbot-stats</a> <span class="label">nodejs</span></h4>
         Statistics module for dbot
         <h4><a href="https://github.com/reality/jsbot">jsbot</a> <span class="label">nodejs</span></h4>
