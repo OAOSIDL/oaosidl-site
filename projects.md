@@ -8,7 +8,7 @@ permalink: /projects/
     <div class="span6">
         <h2>Core Projects</h2>
         <h4><a href="https://github.com/reality/dbot">dbot</a> <span class="label">nodejs</span></h4>
-        An IRC bot with over 30 modules and shiny web interface
+        An IRC bot with over 30 modules and <a href="http://dbot.oaosidl.org">shiny web interface</a>
         <h4><a href="https://github.com/zuzak/dbot-github">dbot-github</a> <span class="label">nodejs</span></h4>
         github API integration for dbot
         <h4><a href="https://github.com/danharibo/dbot-notify">dbot-notify</a> <span class="label">nodejs</span></h4>
