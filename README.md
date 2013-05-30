@@ -1,6 +1,6 @@
-##abercompsci.co.uk
+##oaosidl-site
 
-OAOSIDL website for Aber Comp Sci.
+Jekyll website repository for the OAOSIDL.
 
 ##Requirements
 ###Jekyll
